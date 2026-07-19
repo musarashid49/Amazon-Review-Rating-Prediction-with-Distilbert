@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers
+kagglehub
+tqdm
+seaborn
+scikit-learn
+pandas
+numpy
+matplotlib
